@@ -1,0 +1,15 @@
+# Site settings
+title: Lockyc's Blog
+description: The space where Locky leaves his thoughts
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://lockyc.github.io" # the base hostname & protocol for your site
+twitter_username: Delusional
+github_username:  Lockyc
+
+# Build settings
+markdown: kramdown
+
+#sass:
+#    style: :compressed
+
+permalink: /posts/:year/:month/:day/:title/
