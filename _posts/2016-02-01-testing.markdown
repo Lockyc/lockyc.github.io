@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-08-04 21:56:08
+categories: jekyll update
+tags: [test, testing]
+---
+Turn Left
+You hate me; you want to kill me! Well, go on! Kill me! KILL ME! It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! You hit me with a cricket bat. It's a fez. I wear a fez now. Fezes are cool. I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself. You hate me; you want to kill me! Well, go on! Kill me! KILL ME!
+
+World War Three
+Aw, you're all Mr. Grumpy Face today. *Insistently* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! They're not aliens, they're Earth…liens! I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
+
+I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself.
+Aw, you're all Mr. Grumpy Face today.
+I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
+Partners in Crime
+Aw, you're all Mr. Grumpy Face today. Aw, you're all Mr. Grumpy Face today. All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong?

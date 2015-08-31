@@ -1,15 +1,25 @@
 ---
 layout: default
 ---
+{% for post in paginator.posts %}
+<article>
+	<h3 class="post-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" rel="bookmark">{{ post.title }}</a></h3>
+	<p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+	{{ post.content }}
+</article>
+{% endfor %}
 
-<div id="content-holder" class="row" role="main">
-	<div class="col-md-8">
-		{% for post in site.posts %}
-		<article>
-			<h3 class="post-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" rel="bookmark">{{ post.title }}</a></h3>
-			<p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-			{{ post.content }}
-		</article>
-		{% endfor %}
-	</div>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="page-numbers current">&lt; Previous</a>
+  {% else %}
+    <span class="page-numbers">&lt; Previous</span>
+  {% endif %}
+  <span class="page-numbers">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="page-numbers current">Next &gt;</a>
+  {% else %}
+    <span class="page-numbers ">Next &gt;</span>
+  {% endif %}
 </div>
+

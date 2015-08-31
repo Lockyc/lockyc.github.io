@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-08-04 21:56:08
+categories: jekyll update
+tags: [test, testing]
+---
+The Lazarus Experiment
+You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hate me; you want to kill me! Well, go on! Kill me! KILL ME! The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant. You hate me; you want to kill me! Well, go on! Kill me! KILL ME!
+
+School Reunion
+I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. They're not aliens, they're Earth…liens! No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. No… It's a thing; it's like a plan, but with more greatness. I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. You've swallowed a planet!
+
+Father Christmas. Santa Claus. Or as I've always known him: Jeff.
+Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+Rose
+No… It's a thing; it's like a plan, but with more greatness. The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant. No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. Father Christmas. Santa Claus. Or as I've always known him: Jeff. It's a fez. I wear a fez now. Fezes are cool. It's a fez. I wear a fez now. Fezes are cool.

@@ -5,22 +5,14 @@ date:   2015-08-04 21:56:08
 categories: jekyll update
 tags: [test, testing]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Life on the Fast Lane
+Whoa, slow down there, maestro. There's a *New* Mexico? Son, a woman is like a beer. They smell good, they look good, you'd step over your own mother just to get one! But you can't stop at one. You wanna drink another woman! Stan Lee never left. I'm afraid his mind is no longer in mint condition. Please do not offer my god a peanut. Shoplifting is a victimless crime. Like punching someone in the dark. Shoplifting is a victimless crime. Like punching someone in the dark.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+A Streetcar Named Marge
+Weaseling out of things is important to learn. It's what separates us from the animals…except the weasel. Ahoy hoy? When I held that gun in my hand, I felt a surge of power…like God must feel when he's holding a gun.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom.
+Our differences are only skin deep, but our sames go down to the bone.
+Don't kid yourself, Jimmy. If a cow ever got the chance, he'd eat you and everyone you care about!
+Homer: Bad Man
+Son, when you participate in sporting events, it's not whether you win or lose: it's how drunk you get. I didn't get rich by signing checks. Get ready, skanks! It's time for the truth train! I like my beer cold, my TV loud and my homosexuals flaming. Donuts. Is there anything they can't do? Oh, a *sarcasm* detector. Oh, that's a *really* useful invention!

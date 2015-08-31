@@ -5,22 +5,36 @@ date:   2016-08-04 21:56:08
 categories: jekyll update
 tags: [test, testing]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Anthology of Interest I
+I don't 'need' to drink. I can quit anytime I want! Isn't it true that you have been paid for your testimony? OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. Hey, whatcha watching? I guess because my parents keep telling me to be more ladylike. As though! Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Teenage Mutant Leela's Hurdles
+It's a T. It goes "tuh". I'm just glad my fat, ugly mama isn't alive to see this day. Uh, is the puppy mechanical in any way? Kif might! You've killed me! Oh, you've killed me! With a warning label this big, you know they gotta be fun!
 
-Jekyll also offers powerful support for code snippets:
+Would you censor the Venus de Venus just because you can see her spewers?
+As an interesting side note, as a head without a body, I envy the dead.
+For example, if you killed your grandfather, you'd cease to exist!
+Spanish Fry
+Yes, if you make it look like an electrical fire. When you do things right, people won't be sure you've done anything at all. Who am I making this out to? Uh, is the puppy mechanical in any way? Yes, I saw. You were doing well, until everyone died.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Xmas Story
+In your time, yes, but nowadays shut up! Besides, these are adult stemcells, harvested from perfectly healthy adults whom I killed for their stemcells. You'll have all the Slurm you can drink when you're partying with Slurms McKenzie! You're going back for the Countess, aren't you? For example, if you killed your grandfather, you'd cease to exist! Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors!
+Would you censor the Venus de Venus just because you can see her spewers?
+Yes, if you make it look like an electrical fire. When you do things right, people won't be sure you've done anything at all.
+The Prisoner of Benda
+It doesn't look so shiny to me. A true inspiration for the children. Can we have Bender Burgers again?
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+The Birdbot of Ice-Catraz
+Incidentally, you have a dime up your nose. Five hours? Aw, man! Couldn't you just get me the death penalty? Say what?
+
+But I've never been to the moon! You guys go on without me! I'm going to go… look for more stuff to steal! Bender, hurry! This fuel's expensive! Also, we're dying!
+
+Soon enough. Ow, my spirit! How much did you make me? For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+
+Say what? There's one way and only one way to determine if an animal is intelligent. Dissect its brain! Meh. Uh, is the puppy mechanical in any way?
+
+Ok, we'll go deliver this crate like professionals, and then we'll go ride the bumper cars. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No, of course not. It was… uh… porno. Yeah, that's it. Hey, tell me something. You've got all this money. How come you always dress like you're doing your laundry? Good news, everyone! There's a report on TV with some very bad news!
+
+Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. There's one way and only one way to determine if an animal is intelligent. Dissect its brain! Maybe I love you so much I love you no matter who you are pretending to be. As an interesting side note, as a head without a body, I envy the dead.
