@@ -1,1 +1,42 @@
-remote_theme: thelehhman/texture
+title: Lachlan Collins
+author: Lockyc
+email: lockyc@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Lachlan Collins blog
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: Lachlan Collins
+  tagline: Developer. Carpenter
+  date_format: "%b %-d, %Y"
+  style: green
+  showNav: true
+  showPicker: false
+  navigation:
+    - title: Home
+      url: "/"
+
+  # generate social links in footer
+  social_links:
+    twitter: delusional
+    github:  lockyc
+    rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed

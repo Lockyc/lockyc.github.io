@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {%- include head.html -%}
+</head>
+
+<body>
+  <header class="texture-{{ site.texture.style }}">
+    <div class="container">
+      {%- include nav.html -%}
+    </div>
+    {%- include post_header.html -%}
+  </header>
+  <main>
+    <div class="container">
+      <div class="post-container">
+        {{ content }}
+      </div>
+      <div style="margin-top:25px">
+        <script src="https://utteranc.es/client.js" repo="Lockyc/lockyc.github.io" issue-term="pathname"
+          theme="github-light" crossorigin="anonymous" async>
+          </script>
+      </div>
+    </div>
+  </main>
+  {%- include footer.html -%}
+</body>
+
+</html>
