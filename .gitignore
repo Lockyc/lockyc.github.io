@@ -1,2 +1,12 @@
+# macOS / IDE
 .DS_Store
 .idea
+
+# Agent worktrees (house convention) — checkouts of this repo's own branches
+.claude/worktrees/
+
+# Ephemeral spec/plan/brainstorm scratch — kept on disk, never tracked.
+# Sharper here than elsewhere: main is the live site, so a tracked file is a
+# published one.
+docs/superpowers/
+.superpowers/
