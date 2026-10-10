@@ -1,8 +1,10 @@
 # lockyc.github.io — agent orientation
 
 The link-in-bio page served at **lockyc.com**. A fork of [LittleLink](https://littlelink.io)
-**v2.5.0** (version marker: the comment at the top of `index.html`). Static HTML + CSS — no build,
-no tests, no dependencies, no JavaScript. `README.md` carries the human tour and the layout table;
+**v2.5.0** (version marker: the comment at the top of `index.html`). Static HTML + CSS, no
+tests, no dependencies, no JavaScript. Pages runs Jekyll over it (there is no `.nojekyll`); `_config.yml`
+excludes `README.md` and `CLAUDE.md` so they are not published. A new tracked `.md` is published
+unless added there. `README.md` carries the human tour and the layout table;
 this file carries what will bite an agent.
 
 ## No version, no releases — by design
@@ -33,7 +35,7 @@ never by pushing.
 
 ## The fork boundary
 
-`index.html` is ours; everything else is vendored LittleLink.
+`index.html` and `_config.yml` are ours; everything else is vendored LittleLink.
 
 - **`index.html`** — the only file carrying anything personal: metadata, avatar, heading, bio, and
   the link buttons.
