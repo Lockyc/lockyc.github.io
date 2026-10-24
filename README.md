@@ -5,7 +5,7 @@ The link-in-bio page served at **[lockyc.com](https://lockyc.com)** — a single
 
 A fork of **[LittleLink](https://littlelink.io) v2.5.0** (the version marker is the comment at the
 top of `index.html`). LittleLink supplies the button/brand CSS and the icon set; everything
-personal to this site lives in `index.html` alone.
+personal to this site lives in `index.html`, plus the avatar (`images/avatar.webp`) and `CNAME`.
 
 ## Deployment — pushing to `main` publishes the live site
 

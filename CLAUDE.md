@@ -35,22 +35,12 @@ never by pushing.
 
 ## The fork boundary
 
-`index.html` and `_config.yml` are ours; everything else is vendored LittleLink.
+`index.html`, `images/avatar.webp`, `CNAME` and `_config.yml` are ours (as are the repo's own docs
+and `.gitignore`); everything else is vendored LittleLink.
 
-- **`index.html`** — the only file carrying anything personal: metadata, avatar, heading, bio, and
-  the link buttons.
-- **`css/`, `images/icons/`, `fonts/`** — upstream LittleLink assets, taken as-is. `css/brands.css`
+- **`index.html`** — metadata, avatar, heading, bio, and the link buttons.
+- **`css/`, `images/icons/`, `fonts/`, the rest of `images/`** — upstream LittleLink assets, taken
+  as-is. `css/brands.css`
   is the intended extension point (add a brand style); the icon set is the other (add a 24×24 SVG).
   Don't reformat or prune these — keeping them recognisably upstream is what makes a future
   LittleLink version bump a readable diff rather than a merge.
-
-## Known gap — the template's metadata is still on the live site
-
-`index.html:18-19` still carry LittleLink's own placeholder metadata: `description` is the bare URL
-`https://littlelink.io`, and `author` is the template's author. Those two strings are what search
-results and link/social previews render for lockyc.com. The rest of the page (`<title>`, avatar,
-heading, bio) is correctly personalised — only these two were missed at fork time.
-
-**Left deliberately, not overlooked: this needs the owner, not an agent.** The description is
-editorial voice, and since `main` is the live site any edit publishes immediately — so it is the
-owner's call to make and to word. Don't invent a description and ship it.
